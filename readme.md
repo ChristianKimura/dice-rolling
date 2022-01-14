@@ -1,0 +1,1 @@
+Dice rolling application. Text based user interface(TUI)
